@@ -1,6 +1,6 @@
-# Resources for lens modeling with [Herculens](https://github.com/austinpeel/herculens) 
+# Resources for lens modeling with _Herculens_
 
-This repository centralizes useful resources related the strong lens modeling package `Herculens` (Galan et al. 2022, submitted). For more details regarding the code, please refer to the [main repository](https://github.com/austinpeel/herculens).
+This repository centralizes useful resources related the strong lens modeling package [`Herculens`](https://github.com/austinpeel/herculens).
 
 ## Example notebooks
 
