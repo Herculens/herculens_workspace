@@ -12,5 +12,6 @@ Here is the list of available example notebooks:
 - [Detection of a dark satellite as a localized deviation to the smooth lens potential](notebooks/herculens__Subhalo_detection_with_wavelets.ipynb)
 - [Bayesian wavelet modeling of a spiral galaxy with (Laplace) sparsifying priors](notebooks/herculens__Spiral_galaxy_Bayesian_sparsity_Laplace.ipynb)
 - [Simple smooth light profile fitting](notebooks/herculens__Simple_galaxy_fitting.ipynb)
+- [Reconstruction of a lensed quasar and its complex host with wavelets](notebooks/herculens__Starting_guide_complex_source_and_point_source_arc.ipynb)
 
 New notebooks will be added soon! Moreover please do not hesitate to reach out for suggestions of new examples.
