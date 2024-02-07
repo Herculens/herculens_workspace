@@ -13,5 +13,6 @@ Here is the list of available example notebooks:
 - [Bayesian wavelet modeling of a spiral galaxy with (Laplace) sparsifying priors](notebooks/herculens__Spiral_galaxy_Bayesian_sparsity_Laplace.ipynb)
 - [Simple smooth light profile fitting](notebooks/herculens__Simple_galaxy_fitting.ipynb)
 - [Reconstruction of a lensed quasar and its complex host with wavelets](notebooks/herculens__Starting_guide_complex_source_and_point_source_arc.ipynb)
+- [Fast GPU-boosted lensed quasar simulations](notebooks/herculens__Fast_lensed_quasar_simulations.ipynb)
 
 New notebooks will be added soon! Moreover please do not hesitate to reach out for suggestions of new examples.
