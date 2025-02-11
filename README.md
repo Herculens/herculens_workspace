@@ -1,6 +1,6 @@
 # Resources for lens modeling with _Herculens_
 
-This repository centralizes useful resources related the strong lens modeling package [`Herculens`](https://github.com/austinpeel/herculens).
+This repository centralizes useful resources related the strong lens modeling package [`Herculens`](https://github.com/Herculens/herculens).
 
 ## Example notebooks
 
@@ -15,5 +15,10 @@ Here is the list of available example notebooks:
 - [Simple smooth light profile fitting](notebooks/herculens__Simple_galaxy_fitting.ipynb)
 - [Reconstruction of a lensed quasar and its complex host with wavelets](notebooks/herculens__Complex_source_and_point_source_modeling.ipynb)
 - [Fast GPU-boosted lensed quasar simulations](notebooks/herculens__Fast_lensed_quasar_simulations.ipynb)
+- [Rundown of a fitting sequence: from MAP optimization to HMC sampling with correlated fields](notebooks/herculens__Field_lens_modeling_mock_numpyro.ipynb)
 
 New notebooks will be added soon! Moreover please do not hesitate to reach out for suggestions of new examples.
+
+## Credits
+
+If you make use of `herculens`, or heavily use any of the example notebooks from this repository, please cite [Galan et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A.155G/abstract). See [`CITATION.md`](https://github.com/Herculens/herculens/blob/main/CITATION.md) for all relevant bibtex entries.
