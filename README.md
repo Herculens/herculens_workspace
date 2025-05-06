@@ -16,6 +16,7 @@ Here is the list of available example notebooks:
 - [Reconstruction of a lensed quasar and its complex host with wavelets](notebooks/herculens__Complex_source_and_point_source_modeling.ipynb)
 - [Fast GPU-boosted lensed quasar simulations](notebooks/herculens__Fast_lensed_quasar_simulations.ipynb)
 - [Rundown of a fitting sequence: from MAP optimization to HMC sampling with correlated fields](notebooks/herculens__Field_lens_modeling_mock_numpyro.ipynb)
+- [Multi-band modelling using with source correlations along the wavelength dimension](notebooks/herculens__Multiband_field_lens_modeling_mock_numpyro.ipynb)
 - [Modelling of a Euclid-Q1 strong lens with a correlated field](notebooks/herculens__Euclid_Q1_lens_modelling.ipynb)
 
 New notebooks will be added soon! Moreover please do not hesitate to reach out for suggestions of new examples.
