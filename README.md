@@ -9,14 +9,15 @@ Here is the list of available example notebooks:
 - [**Starting guide**: Lens modeling with gradient descent, Fisher analysis and Hamiltonian sampling](notebooks/herculens__Starting_guide.ipynb)
 - [Full lens modeling with smooth profiles and pixelated wavelets](notebooks/herculens__Complex_lensed_source_with_wavelets_1.ipynb)
 - [Modeling a lensed spiral source with a Sérsic profile + wavelets](notebooks/herculens__Complex_lensed_source_with_wavelets_2.ipynb)
-- [Modeling the same lensed spiral with a fully forward model based on correlated fields](notebooks/herculens__Complex_lensed_source_with_fields.ipynb)
+- [Modeling the same lensed spiral with a (better) correlated field model + NumPyro VI](notebooks/herculens__Complex_lensed_source_with_fields.ipynb)
+- [Modeling the same lensed spiral with the correlated field model + NIFTy-based VI](notebooks/herculens__Complex_lensed_source_with_fields_nifty_vi.ipynb)
 - [Detection of a dark satellite as a localized deviation to the smooth lens potential](notebooks/herculens__Subhalo_detection_with_wavelets.ipynb)
 - [Bayesian wavelet modeling of a spiral galaxy with (Laplace) sparsifying priors](notebooks/herculens__Spiral_galaxy_Bayesian_sparsity_Laplace.ipynb)
 - [Simple smooth light profile fitting](notebooks/herculens__Simple_galaxy_fitting.ipynb)
 - [Reconstruction of a lensed quasar and its complex host with wavelets](notebooks/herculens__Complex_source_and_point_source_modeling.ipynb)
 - [Fast GPU-boosted lensed quasar simulations](notebooks/herculens__Fast_lensed_quasar_simulations.ipynb)
 - [Rundown of a fitting sequence: from MAP optimization to HMC sampling with correlated fields](notebooks/herculens__Field_lens_modeling_mock_numpyro.ipynb)
-- [Multi-band modelling using with source correlations along the wavelength dimension](notebooks/herculens__Multiband_field_lens_modeling_mock_numpyro.ipynb)
+- [Multi-band modelling with source correlations along the wavelength dimension](notebooks/herculens__Multiband_field_lens_modeling_mock_numpyro.ipynb)
 - [Modelling of a Euclid-Q1 strong lens with a correlated field](notebooks/herculens__Euclid_Q1_lens_modelling.ipynb)
 
 New notebooks will be added soon! Moreover please do not hesitate to reach out for suggestions of new examples.
